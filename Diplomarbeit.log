@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.3.24)  24 MAR 2014 23:17
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.3.24)  24 MAR 2014 23:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -408,7 +408,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  (./ZULA.tex
 Kapitel 1.
 
-Overfull \hbox (14.0207pt too wide) in paragraph at lines 8--9
+Overfull \hbox (14.0207pt too wide) in paragraph at lines 14--24
 \OT1/cmr/m/n/12 Struk-tur-ana-ly-se wird der Hand-lungs-auf-bau dar-ge-legt, Sp
 an-nungs-kur-ven und Erz[]ahl-
  []
@@ -418,51 +418,71 @@ an-nungs-kur-ven und Erz[]ahl-
 
 ] [2] [3]
 Kapitel 2.
+
+Overfull \hbox (24.97893pt too wide) in paragraph at lines 36--49
+\OT1/cmr/m/n/12 H[]orn-chen auf einen Yacht-aus-flug ein-ge-la-den und auf See 
+von Pi-rog-gen entf[]uhrt(Kapitel
+ []
+
 [4
 
-] [5] [6] [7] [8] [9] [10] [11] [12]
+]
 
-LaTeX Warning: Citation `pir' on page 13 undefined on input line 94.
-
-
-LaTeX Warning: Citation `pir' on page 13 undefined on input line 97.
+LaTeX Warning: Citation `pir' on page 5 undefined on input line 68.
 
 
-LaTeX Warning: Citation `pir' on page 13 undefined on input line 97.
+LaTeX Warning: Citation `pir' on page 5 undefined on input line 69.
+
+[5] [6]
+
+LaTeX Warning: Citation `pir' on page 7 undefined on input line 142.
 
 
-LaTeX Warning: Citation `pir' on page 13 undefined on input line 98.
+LaTeX Warning: Citation `pir' on page 7 undefined on input line 145.
+
+[7] [8] [9] [10] [11] [12]
+
+LaTeX Warning: Citation `pir' on page 13 undefined on input line 198.
 
 
-LaTeX Warning: Citation `pir' on page 13 undefined on input line 99.
+LaTeX Warning: Citation `pir' on page 13 undefined on input line 201.
 
 
-LaTeX Warning: Citation `pir' on page 13 undefined on input line 100.
+LaTeX Warning: Citation `pir' on page 13 undefined on input line 201.
 
 
-LaTeX Warning: Citation `pir' on page 13 undefined on input line 101.
+LaTeX Warning: Citation `pir' on page 13 undefined on input line 202.
 
 
-LaTeX Warning: Citation `pir' on page 13 undefined on input line 104.
+LaTeX Warning: Citation `pir' on page 13 undefined on input line 203.
 
 
-LaTeX Warning: Citation `pir' on page 13 undefined on input line 106.
+LaTeX Warning: Citation `pir' on page 13 undefined on input line 204.
 
 
-LaTeX Warning: Citation `pir' on page 13 undefined on input line 107.
+LaTeX Warning: Citation `pir' on page 13 undefined on input line 205.
 
 
-LaTeX Warning: Citation `pir' on page 13 undefined on input line 110.
+LaTeX Warning: Citation `pir' on page 13 undefined on input line 208.
 
 
-LaTeX Warning: Citation `pir' on page 13 undefined on input line 110.
+LaTeX Warning: Citation `pir' on page 13 undefined on input line 210.
+
+
+LaTeX Warning: Citation `pir' on page 13 undefined on input line 211.
+
+
+LaTeX Warning: Citation `pir' on page 13 undefined on input line 214.
+
+
+LaTeX Warning: Citation `pir' on page 13 undefined on input line 214.
 
 [13]
 
-LaTeX Warning: Citation `pir' on page 14 undefined on input line 120.
+LaTeX Warning: Citation `pir' on page 14 undefined on input line 224.
 
 
-Overfull \hbox (8.72076pt too wide) in paragraph at lines 119--121
+Overfull \hbox (8.72076pt too wide) in paragraph at lines 223--225
 \OT1/cmr/m/n/12 Der anf[]ang-li-che Un-mut der Mann-schaft ge-gen[]uber Mohn-sc
 hne-cke und den Ver[]ande-
  []
@@ -472,7 +492,7 @@ Kapitel 3.
 [15
 
 ] [16] [17] [18]
-Overfull \hbox (6.98608pt too wide) in paragraph at lines 171--173
+Overfull \hbox (6.98608pt too wide) in paragraph at lines 275--277
 []\OT1/cmr/m/n/12 Die Ge-schich-te wird so-wohl auk-to-ri-al, als auch per-so-n
 al wi-der-ge-ge-ben. Der Erz[]ahler
  []
@@ -483,16 +503,16 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 2280 strings out of 493315
- 30439 string characters out of 6137904
- 101662 words of memory out of 5000000
- 5694 multiletter control sequences out of 15000+600000
+ 2279 strings out of 493315
+ 30427 string characters out of 6137904
+ 102654 words of memory out of 5000000
+ 5693 multiletter control sequences out of 15000+600000
  8500 words of font info for 30 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 37i,11n,50p,3736b,266s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,11n,50p,2941b,266s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on Diplomarbeit.pdf (25 pages, 98768 bytes).
+Output written on Diplomarbeit.pdf (25 pages, 98963 bytes).
 PDF statistics:
  93 PDF objects out of 1000 (max. 8388607)
  63 compressed objects within 1 object stream
