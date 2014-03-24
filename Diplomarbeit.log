@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.3.24)  24 MAR 2014 22:10
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.3.24)  24 MAR 2014 22:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -311,7 +311,7 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(./Diplomarbeit.aux)
+(./Diplomarbeit.aux (./ZULA.aux))
 \openout1 = `Diplomarbeit.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
@@ -385,4 +385,111 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of 
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(./Diplomarbeit.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+)
+\tf@toc=\write3
+\openout3 = `Diplomarbeit.toc'.
+
+ [1
+
+
+{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+\openout2 = `ZULA.aux'.
+
+ (./ZULA.tex
+Kapitel 1.
+
+Overfull \hbox (14.0207pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/12 Struk-tur-ana-ly-se wird der Hand-lungs-auf-bau dar-ge-legt, Sp
+an-nungs-kur-ven und Erz[]ahl-
+ []
+
+[1
+
+
+] [2] [3]
+Kapitel 2.
+[4
+
+] [5] [6] [7] [8] [9] [10] [11] [12]
+
+LaTeX Warning: Citation `pir' on page 13 undefined on input line 94.
+
+
+LaTeX Warning: Citation `pir' on page 13 undefined on input line 97.
+
+
+LaTeX Warning: Citation `pir' on page 13 undefined on input line 97.
+
+
+LaTeX Warning: Citation `pir' on page 13 undefined on input line 98.
+
+
+LaTeX Warning: Citation `pir' on page 13 undefined on input line 99.
+
+
+LaTeX Warning: Citation `pir' on page 13 undefined on input line 101.
+
+
+LaTeX Warning: Citation `pir' on page 13 undefined on input line 104.
+
+
+LaTeX Warning: Citation `(' on page 13 undefined on input line 106.
+
+
+LaTeX Warning: Citation `pir' on page 13 undefined on input line 110.
+
+
+LaTeX Warning: Citation `pir' on page 13 undefined on input line 110.
+
+[13]
+
+LaTeX Warning: Citation `pir' on page 14 undefined on input line 120.
+
+
+Overfull \hbox (8.72076pt too wide) in paragraph at lines 119--121
+\OT1/cmr/m/n/12 Der anf[]ang-li-che Un-mut der Mann-schaft ge-gen[]uber Mohn-sc
+hne-cke und den Ver[]ande-
+ []
+
+[14]
+Kapitel 3.
+[15
+
+] [16] [17] [18]
+Overfull \hbox (6.98608pt too wide) in paragraph at lines 171--173
+[]\OT1/cmr/m/n/12 Die Ge-schich-te wird so-wohl auk-to-ri-al, als auch per-so-n
+al wi-der-ge-ge-ben. Der Erz[]ahler
+ []
+
+[19] [20] [21] [22] [23]) [24] (./Diplomarbeit.aux (./ZULA.aux))
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2281 strings out of 493315
+ 30442 string characters out of 6137904
+ 102662 words of memory out of 5000000
+ 5695 multiletter control sequences out of 15000+600000
+ 8500 words of font info for 30 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 37i,11n,50p,3736b,266s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on Diplomarbeit.pdf (25 pages, 98747 bytes).
+PDF statistics:
+ 93 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

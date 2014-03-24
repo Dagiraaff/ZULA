@@ -1,0 +1,33 @@
+\contentsline {chapter}{\numberline {1}Einleitung}{1}
+\contentsline {section}{\numberline {1.1}Maris Putnins}{1}
+\contentsline {section}{\numberline {1.2}Formulierung der Fragestellung}{1}
+\contentsline {section}{\numberline {1.3}Erster EIndruck}{2}
+\contentsline {chapter}{\numberline {2}Die wilden Piroggenpiraten}{4}
+\contentsline {section}{\numberline {2.1}Inhaltsanalyse}{4}
+\contentsline {subsection}{\numberline {2.1.1}Handlung}{4}
+\contentsline {subsubsection}{\numberline {2.1.1.1}\IeC {\"U}berblick}{4}
+\contentsline {subsubsection}{\numberline {2.1.1.2}Ausgangs- und Endsituation}{5}
+\contentsline {subsubsection}{\numberline {2.1.1.3}Handlungsbestimmende Ereignisse}{5}
+\contentsline {section}{\numberline {2.2}Charaktere}{7}
+\contentsline {subsection}{\numberline {2.2.1}Hauptfiguren}{7}
+\contentsline {subsubsection}{\numberline {2.2.1.1}Mohnschnecke}{7}
+\contentsline {subsubsection}{\numberline {2.2.1.2}Eclair}{9}
+\contentsline {subsubsection}{\numberline {2.2.1.3}H\IeC {\"o}rnchen}{10}
+\contentsline {subsection}{\numberline {2.2.2}Wichtige Nebenfiguren}{12}
+\contentsline {subsubsection}{\numberline {2.2.2.1}Mordan}{12}
+\contentsline {subsubsection}{\numberline {2.2.2.2}Halbpirogg}{13}
+\contentsline {subsubsection}{\numberline {2.2.2.3}Pelmen Otto}{14}
+\contentsline {subsection}{\numberline {2.2.3}Personenkonstellationen}{14}
+\contentsline {subsubsection}{\numberline {2.2.3.1}Pelmeni}{14}
+\contentsline {subsubsection}{\numberline {2.2.3.2}Speckkugelmannschaft}{14}
+\contentsline {subsection}{\numberline {2.2.4}Schaupl\IeC {\"a}tze}{14}
+\contentsline {subsubsection}{\numberline {2.2.4.1}Ursprungsorte}{14}
+\contentsline {subsubsection}{\numberline {2.2.4.2}Verweilorte}{14}
+\contentsline {chapter}{\numberline {3}Strukturanalyse}{15}
+\contentsline {section}{\numberline {3.1}Handlung}{15}
+\contentsline {subsection}{\numberline {3.1.1}Aufbau}{15}
+\contentsline {subsection}{\numberline {3.1.2}Kernhandlung}{16}
+\contentsline {section}{\numberline {3.2}Rahmenhandlung}{16}
+\contentsline {section}{\numberline {3.3}Spannungskurve}{18}
+\contentsline {subsection}{\numberline {3.3.1}H\IeC {\"o}hepunkte}{18}
+\contentsline {subsection}{\numberline {3.3.2}Wendepunkte}{18}
