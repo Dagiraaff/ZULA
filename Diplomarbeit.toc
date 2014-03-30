@@ -7,27 +7,51 @@
 \contentsline {subsection}{\numberline {2.1.1}Handlung}{4}
 \contentsline {subsubsection}{\numberline {2.1.1.1}\IeC {\"U}berblick}{4}
 \contentsline {subsubsection}{\numberline {2.1.1.2}Ausgangs- und Endsituation}{5}
-\contentsline {subsubsection}{\numberline {2.1.1.3}Handlungsbestimmende Ereignisse}{5}
+\contentsline {subsubsection}{\numberline {2.1.1.3}Handlungsbestimmende Ereignisse}{6}
 \contentsline {section}{\numberline {2.2}Charaktere}{7}
 \contentsline {subsection}{\numberline {2.2.1}Hauptfiguren}{7}
 \contentsline {subsubsection}{\numberline {2.2.1.1}Mohnschnecke}{7}
-\contentsline {subsubsection}{\numberline {2.2.1.2}Eclair}{9}
-\contentsline {subsubsection}{\numberline {2.2.1.3}H\IeC {\"o}rnchen}{10}
-\contentsline {subsection}{\numberline {2.2.2}Wichtige Nebenfiguren}{12}
-\contentsline {subsubsection}{\numberline {2.2.2.1}Mordan}{12}
-\contentsline {subsubsection}{\numberline {2.2.2.2}Halbpirogg}{13}
-\contentsline {subsubsection}{\numberline {2.2.2.3}Pelmen Otto}{14}
-\contentsline {subsection}{\numberline {2.2.3}Personenkonstellationen}{14}
-\contentsline {subsubsection}{\numberline {2.2.3.1}Pelmeni}{14}
-\contentsline {subsubsection}{\numberline {2.2.3.2}Speckkugelmannschaft}{14}
-\contentsline {subsection}{\numberline {2.2.4}Schaupl\IeC {\"a}tze}{14}
-\contentsline {subsubsection}{\numberline {2.2.4.1}Ursprungsorte}{14}
-\contentsline {subsubsection}{\numberline {2.2.4.2}Verweilorte}{14}
-\contentsline {chapter}{\numberline {3}Strukturanalyse}{15}
-\contentsline {section}{\numberline {3.1}Handlung}{15}
-\contentsline {subsection}{\numberline {3.1.1}Aufbau}{15}
-\contentsline {subsection}{\numberline {3.1.2}Kernhandlung}{16}
-\contentsline {section}{\numberline {3.2}Rahmenhandlung}{16}
-\contentsline {section}{\numberline {3.3}Spannungskurve}{18}
-\contentsline {subsection}{\numberline {3.3.1}H\IeC {\"o}hepunkte}{18}
-\contentsline {subsection}{\numberline {3.3.2}Wendepunkte}{18}
+\contentsline {subsubsection}{\numberline {2.2.1.2}Eclair}{10}
+\contentsline {subsubsection}{\numberline {2.2.1.3}H\IeC {\"o}rnchen}{11}
+\contentsline {subsection}{\numberline {2.2.2}Wichtige Nebenfiguren}{13}
+\contentsline {subsubsection}{\numberline {2.2.2.1}Mordan}{13}
+\contentsline {subsubsection}{\numberline {2.2.2.2}Halbpirogg}{14}
+\contentsline {subsubsection}{\numberline {2.2.2.3}Pelmen Otto}{15}
+\contentsline {subsection}{\numberline {2.2.3}Schaupl\IeC {\"a}tze}{15}
+\contentsline {subsubsection}{\numberline {2.2.3.1}Ursprungsorte}{15}
+\contentsline {subsubsection}{\numberline {2.2.3.2}Verweilorte}{16}
+\contentsline {subsubsection}{\numberline {2.2.3.3}Wichtige Schaupl\IeC {\"a}tze}{20}
+\contentsline {section}{\numberline {2.3}Strukturanalyse}{21}
+\contentsline {subsection}{\numberline {2.3.1}Ablauf}{21}
+\contentsline {subsubsection}{\numberline {2.3.1.1}Komposition der Geschichte}{21}
+\contentsline {subsection}{\numberline {2.3.2}Kernhandlung}{22}
+\contentsline {subsection}{\numberline {2.3.3}Rahmenhandlung}{22}
+\contentsline {section}{\numberline {2.4}Spannungskurve}{23}
+\contentsline {subsection}{\numberline {2.4.1}H\IeC {\"o}hepunkte}{24}
+\contentsline {subsubsection}{\numberline {2.4.1.1}Wendepunkte}{25}
+\contentsline {section}{\numberline {2.5}Sprachanalyse}{25}
+\contentsline {subsection}{\numberline {2.5.1}Semantik}{26}
+\contentsline {subsubsection}{\numberline {2.5.1.1}Lebensmittel}{26}
+\contentsline {subsubsection}{\numberline {2.5.1.2}Nautische Termini}{27}
+\contentsline {subsection}{\numberline {2.5.2}Art der Adjektive}{28}
+\contentsline {subsection}{\numberline {2.5.3}Art der Verben}{29}
+\contentsline {subsection}{\numberline {2.5.4}Stilistik}{29}
+\contentsline {subsubsection}{\numberline {2.5.4.1}Erz\IeC {\"a}hlstil}{29}
+\contentsline {subsection}{\numberline {2.5.5}Erz\IeC {\"a}hlperspektive}{29}
+\contentsline {subsection}{\numberline {2.5.6}Erz\IeC {\"a}hltechnik}{30}
+\contentsline {subsubsection}{\numberline {2.5.6.1}Erz\IeC {\"a}hlzeit}{31}
+\contentsline {subsubsection}{\numberline {2.5.6.2}Personifikationen}{31}
+\contentsline {subsubsection}{\numberline {2.5.6.3}Allusionen}{32}
+\contentsline {subsubsection}{\numberline {2.5.6.4}Euphemismen}{34}
+\contentsline {subsubsection}{\numberline {2.5.6.5}kompositorische Mittel}{35}
+\contentsline {subsection}{\numberline {2.5.7}weitere Stilmittel}{36}
+\contentsline {section}{\numberline {2.6}Einsatz im Unterricht}{37}
+\contentsline {subsection}{\numberline {2.6.1}P\IeC {\"a}dagogischer Wert}{37}
+\contentsline {subsection}{\numberline {2.6.2}Beispiele von Verwendung im Unterricht gem\IeC {\"a}\IeC {\ss } des Lehrplans}{38}
+\contentsline {subsubsection}{\numberline {2.6.2.1}Fach Deutsch - Sprechen und Gespr\IeC {\"a}che f\IeC {\"u}hren}{38}
+\contentsline {subsubsection}{\numberline {2.6.2.2}Fach Deutsch - F\IeC {\"u}r sich und andere schreiben}{39}
+\contentsline {subsubsection}{\numberline {2.6.2.3}Heimat- und Sachunterricht - Zusammenleben}{39}
+\contentsline {subsection}{\numberline {2.6.3}Unterrichtsbeispiele}{39}
+\contentsline {subsubsection}{\numberline {2.6.3.1}Unterrichtsentwurf: Wir backen Mohnschnecken}{39}
+\contentsline {subsubsection}{\numberline {2.6.3.2}Unterrichtsentwurf: Ich gestalte einen Fotoroman}{41}
+\contentsline {chapter}{\numberline {3}Schlusszusammenfassung}{44}

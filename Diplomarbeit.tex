@@ -16,6 +16,7 @@
 \usepackage{mydiplstyle} %eigene Befehlsdefinitionen (aus Datei mydiplstyle.sty)
 \usepackage{fancyhdr}
 \usepackage[utf8]{inputenc}
+\usepackage{url}
 
 %% Header-Layout
 \pagestyle{fancy}
@@ -43,6 +44,7 @@
 %------ layout for title page ------
 
 \pagenumbering{roman}
+\include{Titelblatt}
 
 %------ preface, table of contents, summary ------
 \tableofcontents
@@ -64,6 +66,10 @@
 %\include{Anhang}
 %\include{Literatur}
 %\include{Erklaerung}
+
+% Literatur
+\bibliography{lit}{}
+\bibliographystyle{plain}
 
 %------ end of document ------
 \end{document}
